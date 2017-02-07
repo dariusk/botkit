@@ -22,7 +22,7 @@ Table of Contents
 
 ## Getting Started
 
-1) Install Botkit [more info here](readme.md#installation)
+1) Install Botkit ([more info here](readme.md#installation))
 
 2) Create a [Facebook App for Web](https://developers.facebook.com/quickstarts/?platform=web) and note down or [create a new Facebook Page](https://www.facebook.com/pages/create/).  Your Facebook page will be used for the app's identity.
 
