@@ -50,11 +50,15 @@ If you intend to create a bot that uses Microsoft Bot Framework to send and rece
 
 ## Install Botkit from NPM or Github
 
+### Install via NPM
+
 Botkit is available via NPM.
 
 ```bash
 npm install --save botkit
 ```
+
+### Install via Github
 
 You can also check out Botkit directly from Git.
 If you want to use the example code and included bots, it may be preferable to use Github over NPM.
